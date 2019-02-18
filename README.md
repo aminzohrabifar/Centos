@@ -1,6 +1,6 @@
 # Centos
 
-<b>Customize your MOTD login message in Linux</b>
+<b>Customize your MOTD (welcome message) login message in Linux</b>
 <br>
 folder: motd<br>
 This is a little guide to display dynamic login messages on a Linux system.
